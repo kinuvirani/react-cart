@@ -1,0 +1,18 @@
+.icon {
+  font-size: 18px;
+}
+
+.input-box {
+  width: 50px;
+  margin: 10px;
+  text-align: center;
+}
+.invoice-details {
+  margin-top: 50px;
+}
+
+.invoice {
+  font-weight: 500;
+  margin-right: 170px;
+  text-align: right;
+}
